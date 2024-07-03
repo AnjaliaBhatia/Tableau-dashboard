@@ -1,5 +1,5 @@
 ### Tableau-dashboard
-##sales tashboard
+## sales dashboard
 
               
 **purpose**
@@ -18,7 +18,7 @@ Display a summary of total sales ,profit and quantity for the current year and t
 -highlight the week that are above and below the average to draw attention to sales & profit performance. 
 
 
-##customer dashboard
+## customer dashboard
 **purpose**
 The customer dashboard aims to provide an overview of customer data ,trends and behaviours.it will help marketing teams and management terms  and management to understand customer segments and improve customer satisfaction.
 **key requirements**
